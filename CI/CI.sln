@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake.Unity", "Cake.Unity\Cake.Unity.csproj", "{3ABC9A8A-A113-4AFB-B6BF-495C301FC0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build", "Build.csproj", "{962D4ADA-EE88-4170-BB93-0C2B1C10AB67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABC9A8A-A113-4AFB-B6BF-495C301FC0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABC9A8A-A113-4AFB-B6BF-495C301FC0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABC9A8A-A113-4AFB-B6BF-495C301FC0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABC9A8A-A113-4AFB-B6BF-495C301FC0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962D4ADA-EE88-4170-BB93-0C2B1C10AB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962D4ADA-EE88-4170-BB93-0C2B1C10AB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962D4ADA-EE88-4170-BB93-0C2B1C10AB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962D4ADA-EE88-4170-BB93-0C2B1C10AB67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
